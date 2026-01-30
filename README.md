@@ -1,7 +1,7 @@
 # Welcome to My Portfolio
 
 ## About Me
-I am an analytical professional with a background in computer systems and advanced data analytics, dedicated to enhancing operational efficiency. I specialize in optimizing application performance and translating intricate user requirements into robust technical solutions, particularly within industrial automation. My approach integrates system analysis, data interpretation, and SQL proficiency to drive continuous process improvement and resolve complex challenges.
+I leverage a strong foundation in computer systems and advanced data analytics to optimize application performance and translate complex user requirements into effective technical solutions. My expertise lies in systematically analyzing data, identifying areas for process improvement, and implementing tailored software configurations, particularly within industrial automation environments.
 
 ## Projects
 
