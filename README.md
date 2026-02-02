@@ -5,18 +5,22 @@ I leverage a strong foundation in computer systems and advanced data analytics t
 
 ## Projects
 
+### Heuristic Detection of Industrial Controller Resets
+Developed a rule-based algorithm to process telemetry data and identify genuine hardware failures amidst noisy event logs. Calculated Mean Time Between Resets (MTBR) to aid predictive maintenance scheduling.
+- **Tools:** Python, Pandas, Matplotlib, Seaborn
+- [View on GitHub](https://github.com/vladimir-net/Detection-and-Analysis-of-Controller-Resets)
+
 ### Employee Attrition Prediction
 Predictive model using Random Forest to identify at-risk employees.
 - **Tools:** Python, Scikit-learn, Pandas
-- [View on GitHub](https://github.com/yourusername/salifort-employee-attrition)
+- [View on GitHub](https://github.com/vladimir-net/Predicting-Employee-Attrition-at-Salifort-Motors)
 
 ## Skills
-- Python
-- SQL
-- Tableau
-- Excel
+- **Languages & Scripting:** Python, SQL
+- **Data Analysis:** Pandas, NumPy, Excel
+- **Visualization:** Tableau, Matplotlib, Seaborn
 
 ## Contact
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub](https://github.com/yourusername)
+- Email: vlmakarov@proton.me
+- LinkedIn: https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/vladimirmakarov/
+- GitHub: https://github.com/vladimir-net
