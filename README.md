@@ -22,5 +22,5 @@ Predictive model using Random Forest to identify at-risk employees.
 
 ## Contact
 - Email: vlmakarov@proton.me
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/vladimirmakarov/)
-- GitHub: [Your GitHub](https://github.com/vladimir-net)
+- LinkedIn: [Vladimir Makarov](https://www.linkedin.com/in/vladimirmakarov/)
+- GitHub: [vladimir-net](https://github.com/vladimir-net)
