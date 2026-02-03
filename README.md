@@ -46,5 +46,3 @@ Conducted feature engineering, exploratory data analysis, and model evaluation t
 - **Email:** vlmakarov@proton.me
 - **LinkedIn:** [Vladimir Makarov](https://www.linkedin.com/in/vladimirmakarov/)
 - **GitHub:** [vladimir-net](https://github.com/vladimir-net)
-
-Feel free to reach out for collaboration on data analytics, industrial systems optimization, or predictive modeling projects!
