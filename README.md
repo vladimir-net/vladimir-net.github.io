@@ -1,7 +1,7 @@
 # Welcome to My Portfolio
 
 ## Professional Summary
-Data-driven professional with a background in Computer Systems and Networks and a Google Advanced Data Analytics certification. I specialize in leveraging advanced analytics to optimize application performance and translate complex user requirements into tailored technical solutions. Proven expertise in systematic data analysis, process improvement, and software configuration within high-stakes industrial automation environments
+Data-driven professional with a background in Computer Systems and a Google Advanced Data Analytics certification. I specialize in leveraging advanced analytics to optimize application performance and translate complex user requirements into tailored technical solutions. Proven expertise in systematic data analysis, process improvement, and software configuration within high-stakes industrial automation environments
 
 ## Technical Skills
 - **Programming & Querying:** Python, SQL
