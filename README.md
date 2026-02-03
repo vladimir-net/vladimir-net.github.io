@@ -1,13 +1,7 @@
 # Welcome to My Portfolio
 
 ## Professional Summary
-Data-driven professional with a Bachelor’s in Computer Systems and Networks and a Google Advanced Data Analytics Professional Certificate. I specialize in leveraging advanced analytics to optimize application performance and translate complex user requirements into tailored technical solutions. Proven expertise in systematic data analysis, process improvement, SQL-based data extraction, statistical modeling, and software configuration within high-stakes industrial automation environments.
-
-Currently a Senior Software Support Engineer / Application Analyst at AVEVA (Sydney, NSW | Jul 2019 – Present), where I:
-- Optimize application performance through continuous system monitoring, tuning, and troubleshooting to ensure high availability for critical industrial processes.
-- Analyze user needs and translate operational requirements into detailed technical specifications for industrial automation software.
-- Interpret system logs and performance data to identify trends, anomalies, and workflow optimization opportunities.
-- Configure and customize automation software to meet specific requirements and improve resource utilization.
+I leverage a strong foundation in computer systems and advanced data analytics to optimize application performance and translate complex user requirements into effective technical solutions. My expertise lies in systematically analyzing data, identifying areas for process improvement, and implementing tailored software configurations, particularly within industrial automation environments.
 
 ## Technical Skills
 - **Programming & Querying:** Python, SQL
